@@ -5,7 +5,7 @@ import javax.net.ssl.SSLSocket;
 import javax.net.ssl.SSLSocketFactory;
 import java.util.Base64;
 
-public class smtpWithSocketProgramming
+public class SmtpWithSocketProgramming
 {
      private static DataOutputStream dos;
 
